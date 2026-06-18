@@ -1,4 +1,3 @@
-# vocabulary-builder
 # 📖 Smart Vocabulary Builder
 
 A simple CLI tool to manage and review your new English words. Built with Python.
